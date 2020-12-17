@@ -11,8 +11,8 @@ namespace samplejenkins
         static void Main(string[] args)
         {
             Console.WriteLine("hello jenkins");
-            Console.WriteLine("hello!")
-                Console.Writeline("hi")
+            Console.WriteLine("hello!");
+                Console.WriteLine("hi");
         }
     }
 }
